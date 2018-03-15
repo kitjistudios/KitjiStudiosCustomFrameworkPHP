@@ -1,0 +1,11 @@
+{
+    "name": "vendor/kitji-studios",
+    "description": "Description of project KitjiStudios.",
+    "authors": [
+        {
+            "name": "Shayne Marshall",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
